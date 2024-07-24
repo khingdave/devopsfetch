@@ -51,7 +51,7 @@ DevOpsFetch is a tool designed for DevOps to retrieve and display server informa
 
 ```bash
 ./devopsfetch.sh -p
-Provide detailed information about a specific port
+- Provide detailed information about a specific port
 
 ./devopsfetch.sh -d
 List all Docker images and containers
